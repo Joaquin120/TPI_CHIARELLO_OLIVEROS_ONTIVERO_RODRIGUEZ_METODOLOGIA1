@@ -2,3 +2,8 @@
 .opencode/
 node_modules/
 *.log
+.coverage
+htmlcov/
+.pytest_cache/
+__pycache__/
+venv/
