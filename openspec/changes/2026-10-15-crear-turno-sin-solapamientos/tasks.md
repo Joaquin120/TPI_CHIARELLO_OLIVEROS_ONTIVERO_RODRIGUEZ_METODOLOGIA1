@@ -1,4 +1,4 @@
-# Tasks de Implementación (Para Joaquín)
+# Tasks de Implementación 
 
 - [ ] 1. Definir los modelos de dominio `Turno`, `Profesional`, `Sillon` en `src/domain/models.py`.
 - [ ] 2. Definir excepciones `SolapamientoProfesionalError` y `SolapamientoSillonError` en `src/domain/exceptions.py`.
