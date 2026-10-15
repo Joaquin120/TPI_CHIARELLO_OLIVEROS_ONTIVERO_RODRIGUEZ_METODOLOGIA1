@@ -1,4 +1,4 @@
-# 05. Especificación de Endpoints REST API
+# Especificación de Funcionalidades y Endpoints
 
 ## Turnos
 - `GET /api/v1/turnos` -> Lista turnos (filtrables por `profesional_id`, `sillon_id`, `fecha`).

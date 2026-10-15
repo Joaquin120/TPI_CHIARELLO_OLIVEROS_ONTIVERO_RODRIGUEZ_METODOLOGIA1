@@ -1,4 +1,4 @@
-# 07. Seguridad y Permisos
+# Actores y Permisos
 
 ## Roles de Usuario
 1. **Administrador de Clínica:** Configura profesionales, sillones y horarios de atención.

@@ -1,4 +1,4 @@
-# 01. Arquitectura del Sistema
+# Arquitectura del Sistema
 
 ## Patrón de Diseño
 El sistema sigue una arquitectura en capas (Layered Architecture / Monolito Modular) preparada para un entorno SaaS web-first:

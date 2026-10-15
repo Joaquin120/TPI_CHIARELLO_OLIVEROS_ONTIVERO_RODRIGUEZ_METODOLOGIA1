@@ -1,4 +1,4 @@
-# 03. Modelo de Datos
+# Modelo de Datos
 
 ## Entidad: Profesional
 - `id` (UUID / Integer)

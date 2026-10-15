@@ -1,4 +1,4 @@
-# 02. Reglas del Dominio Odontológico
+# Reglas del Dominio Odontológico
 
 ## Entidades Principales
 - **Profesional:** Odontólogo matriculado.
