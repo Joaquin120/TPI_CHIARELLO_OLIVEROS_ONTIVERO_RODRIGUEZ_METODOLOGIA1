@@ -1,7 +1,7 @@
 # Explore: Relevamiento del Problema y Estado del Repositorio
 
 ## 1. Estado Actual del Código
-- **Estado del repositorio:** El repositorio fue inicializado con la estructura base de OpenSpec y la fundación de la Knowledge Base[cite: 5, 8]. No existe código de dominio previo en `src/` ni suite de pruebas en `tests/`.
+- **Estado del repositorio:** El repositorio fue inicializado con la estructura base de OpenSpec y la fundación de la Knowledge Base. No existe código de dominio previo en `src/` ni suite de pruebas en `tests/`.
 - **Cero Deuda Técnica:** Al no haber implementación previa, no se detectan acoplamientos ni refactorizaciones necesarias antes de iniciar la propuesta.
 
 ## 2. Relevamiento del Problema de Dominio
