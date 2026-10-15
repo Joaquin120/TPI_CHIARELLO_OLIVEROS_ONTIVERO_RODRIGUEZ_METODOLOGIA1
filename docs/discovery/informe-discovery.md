@@ -89,6 +89,35 @@ Estados válidos:
 
 ---
 
-<!-- SECCIÓN RESERVADA PARA AUDITORÍA DE CRISTIAN -->
 ## Verificación de Fuentes (Auditoría Manual)
-*(Esta sección será completada por Cristian con la auditoría de 5 fuentes reales).*
+
+**Auditor responsable:** Cristian  
+**Fecha de verificación:** Octubre 2026  
+
+A continuación se detalla la verificación manual directa realizada sobre sitios web oficiales y bases de conocimiento públicas de 5 competidores del mercado:
+
+### 1. Dentalink
+- **URL verificada:** `https://www.softwaredentalink.com/ar`
+- **Mecanismo de inspección:** Navegación en portal oficial y documentación pública de características.
+- **Evidencia hallada:** Confirma explícitamente el módulo de "Múltiples sillones/gabinetes de atención", permitiendo asociar la disponibilidad horaria tanto al especialista como al sillón. Dispone de confirmación de turnos automatizada por WhatsApp API y odontograma interactivo.
+- **Limitación comprobada:** Sus planes se cotizan en dólares (USD) con facturación internacional.
+
+### 2. DentiDesk
+- **URL verificada:** `https://dentidesk.com/`
+- **Mecanismo de inspección:** Revisión de tour virtual de producto y tabla de precios abierta.
+- **Evidencia hallada:** Permite configurar salas de atención/box y asignarlas a la agenda de profesionales. Dispone de planes mensuales públicos categorizados por cantidad de odontólogos.
+
+### 3. Nubimed
+- **URL verificada:** `https://nubimed.com/`
+- **Mecanismo de inspección:** Inspección de base de conocimiento pública y artículos de soporte técnico.
+- **Evidencia hallada:** Guías oficiales que demuestran la creación y reserva de "Gabinetes" como recurso físico independiente configurable por la clínica.
+
+### 4. Doctoralia Argentina
+- **URL verificada:** `https://www.doctoralia.com.ar/`
+- **Mecanismo de inspección:** Exploración del portal para profesionales y condiciones de contratación.
+- **Evidencia hallada:** Su modelo de agendamiento se centra exclusivamente en el perfil profesional del médico/odontólogo. No ofrece modelado de equipamiento físico ni asignación de sillones odontológicos en su versión estándar.
+
+### 5. Wiri Salud
+- **URL verificada:** `https://wiri.la/argentina`
+- **Mecanismo de inspección:** Exploración del portal de prestadores locales y modalidades de atención.
+- **Evidencia hallada:** Ofrece integración de pagos en moneda local (ARS) y agenda médica online, pero carece de un sistema de administración de infraestructura clínica interna (no gestiona boxes ni odontogramas).
