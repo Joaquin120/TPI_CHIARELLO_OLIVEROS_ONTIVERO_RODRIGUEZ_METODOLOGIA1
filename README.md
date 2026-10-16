@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Sistema de Gestión de Turnos Odontológicos
 
 Este repositorio contiene la lógica de dominio para la gestión de turnos odontológicos, resolviendo la doble restricción física de disponibilidad simultánea de profesionales y sillones/boxes. El proyecto fue especificado y construido bajo la metodología **Spec-Driven Development (SDD)** con **Active Stack**.
@@ -55,7 +54,6 @@ pytest -v
 ## Integrantes del Equipo
 
 * Joaquín Chiarello
-* Santiago Oliveros
-* Cristian Ontivero
-* Joseph Rodríguez
-EOF
+* Santiago Ontivero
+* Cristian Rodríguez
+* Joseph Oliveros
