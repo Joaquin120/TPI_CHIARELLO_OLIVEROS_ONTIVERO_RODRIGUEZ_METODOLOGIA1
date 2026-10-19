@@ -36,7 +36,10 @@ pip install -r requirements.txt
 ```bash
 pytest -v
 ```
-
+o
+```bash
+python3 -m pytest -v
+```
 > **Nota:** Todos los 8 tests unitarios deben pasar en verde, validando el camino feliz, las excepciones de solapamiento por profesional y sillón, y los turnos contiguos bajo intervalos semiabiertos $[inicio, fin)$.
 
 ---
