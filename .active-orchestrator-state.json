@@ -1,5 +1,55 @@
 {
   "version": 4,
-  "step": "discovery",
-  "owner": "active-orchestrator"
+  "step": "done",
+  "owner": "active-orchestrator",
+  "agents": {
+    "created_by": "agent-instruction",
+    "files": ["CLAUDE.md", "AGENTS.md"],
+    "reglas_applied": [
+      "spec-first",
+      "doble-validacion-profesional-sillon",
+      "privacidad-datos-sinteticos",
+      "suite-verde",
+      "tests-sqlite-real-sin-mocks",
+      "sin-secretos-env",
+      "intervalos-semiabiertos",
+      "tenant-id-siempre",
+      "conventional-commits",
+      "no-buildear-pushear-sin-pedir"
+    ]
+  },
+  "roadmap": {
+    "created_by": "roadmap-generator",
+    "changes_file": "CHANGES.md"
+  },
+  "skills": {
+    "created_by": "find-skill",
+    "recommended": [
+      "fastapi/fastapi@fastapi",
+      "wshobson/agents@fastapi-templates",
+      "wshobson/agents@python-testing-patterns",
+      "wshobson/agents@architecture-patterns",
+      "wondelai/skills@clean-architecture",
+      "wondelai/skills@domain-driven-design",
+      "wshobson/agents@auth-implementation-patterns",
+      "getsentry/skills@security-review",
+      "patricio0312rev/skills@multi-tenant-safety-checker",
+      "jeffallan/claude-skills@api-designer",
+      "wispbit-ai/skills@sqlalchemy-alembic-expert-best-practices-code-review",
+      "vercel-labs/agent-skills@vercel-react-best-practices",
+      "claude-office-skills/skills@whatsapp-automation",
+      "syncfusion/react-ui-components-skills@syncfusion-react-scheduler"
+    ],
+    "installed": [
+      "fastapi/fastapi@fastapi",
+      "wshobson/agents@python-testing-patterns",
+      "wondelai/skills@clean-architecture",
+      "wondelai/skills@domain-driven-design",
+      "wispbit-ai/skills@sqlalchemy-alembic-expert-best-practices-code-review"
+    ]
+  },
+  "registry": {
+    "created_by": "skill-registry",
+    "file": ".atl/skill-registry.md"
+  }
 }
